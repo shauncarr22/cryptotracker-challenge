@@ -1,0 +1,3 @@
+[submodule "cryptoapp"]
+	path = cryptoapp
+	url = /Users/laskey/Documents/cryptoCurr/client/cryptoapp
